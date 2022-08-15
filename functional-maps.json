@@ -1,0 +1,18 @@
+{
+  "1.0.0": {
+    "bifunctors": "3.0.0",
+    "control": "3.3.1",
+    "distributive": "3.0.0",
+    "eff": "3.2.3",
+    "foldable-traversable": "3.7.1",
+    "identity": "3.1.0",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "partial": "1.2.1",
+    "prelude": "3.3.0",
+    "tuples": "4.1.0",
+    "type-equality": "2.1.0"
+  }
+}

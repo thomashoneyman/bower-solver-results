@@ -1,0 +1,15 @@
+{
+  "0.0.2": {
+    "arrays": "0.3.7",
+    "context": "0.0.3",
+    "control": "0.2.6",
+    "either": "0.1.8",
+    "enums": "0.2.4",
+    "foldable-traversable": "0.1.6",
+    "maybe": "0.2.2",
+    "monoid": "0.1.5",
+    "oo-ffi": "0.0.6",
+    "strings": "0.4.5",
+    "tuples": "0.2.3"
+  }
+}

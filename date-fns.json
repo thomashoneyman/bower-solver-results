@@ -1,0 +1,58 @@
+{
+  "1.0.0": {
+    "bifunctors": "3.0.0",
+    "control": "3.3.1",
+    "eff": "3.2.3",
+    "either": "3.2.0",
+    "exceptions": "3.1.0",
+    "foldable-traversable": "3.7.1",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "prelude": "3.3.0",
+    "unsafe-coerce": "3.0.0"
+  },
+  "1.0.1": {
+    "bifunctors": "3.0.0",
+    "control": "3.3.1",
+    "eff": "3.2.3",
+    "either": "3.2.0",
+    "exceptions": "3.1.0",
+    "foldable-traversable": "3.7.1",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "prelude": "3.3.0",
+    "unsafe-coerce": "3.0.0"
+  },
+  "1.0.2": {
+    "bifunctors": "3.0.0",
+    "control": "3.3.1",
+    "eff": "3.2.3",
+    "either": "3.2.0",
+    "exceptions": "3.1.0",
+    "foldable-traversable": "3.7.1",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "prelude": "3.3.0",
+    "unsafe-coerce": "3.0.0"
+  },
+  "1.0.3": {
+    "bifunctors": "3.0.0",
+    "control": "3.3.1",
+    "eff": "3.2.3",
+    "either": "3.2.0",
+    "exceptions": "3.1.0",
+    "foldable-traversable": "3.7.1",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "prelude": "3.3.0",
+    "unsafe-coerce": "3.0.0"
+  }
+}

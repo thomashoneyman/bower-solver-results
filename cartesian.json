@@ -1,0 +1,72 @@
+{
+  "1.0.1": {
+    "console": "4.4.0",
+    "control": "4.2.0",
+    "effect": "2.0.1",
+    "functions": "4.0.0",
+    "globals": "4.1.0",
+    "integers": "4.0.0",
+    "invariant": "4.1.0",
+    "math": "2.1.1",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "prelude": "4.1.1"
+  },
+  "1.0.2": {
+    "console": "4.4.0",
+    "control": "4.2.0",
+    "effect": "2.0.1",
+    "functions": "4.0.0",
+    "globals": "4.1.0",
+    "integers": "4.0.0",
+    "invariant": "4.1.0",
+    "math": "2.1.1",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "prelude": "4.1.1"
+  },
+  "1.0.4": {
+    "console": "4.4.0",
+    "control": "4.2.0",
+    "effect": "2.0.1",
+    "functions": "4.0.0",
+    "globals": "4.1.0",
+    "integers": "4.0.0",
+    "invariant": "4.1.0",
+    "math": "2.1.1",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "prelude": "4.1.1",
+    "psci-support": "4.0.0"
+  },
+  "1.0.5": {
+    "console": "6.0.0",
+    "control": "6.0.0",
+    "effect": "4.0.0",
+    "functions": "6.0.0",
+    "integers": "6.0.0",
+    "invariant": "6.0.0",
+    "maybe": "6.0.0",
+    "newtype": "5.0.0",
+    "numbers": "9.0.0",
+    "prelude": "6.0.0",
+    "psci-support": "6.0.0",
+    "safe-coerce": "2.0.0",
+    "unsafe-coerce": "6.0.0"
+  },
+  "1.0.6": {
+    "console": "6.0.0",
+    "control": "6.0.0",
+    "effect": "4.0.0",
+    "functions": "6.0.0",
+    "integers": "6.0.0",
+    "invariant": "6.0.0",
+    "maybe": "6.0.0",
+    "newtype": "5.0.0",
+    "numbers": "9.0.0",
+    "prelude": "6.0.0",
+    "psci-support": "6.0.0",
+    "safe-coerce": "2.0.0",
+    "unsafe-coerce": "6.0.0"
+  }
+}

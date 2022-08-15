@@ -1,0 +1,16 @@
+{
+  "1.0.0": {
+    "control": "4.2.0",
+    "invariant": "4.1.0",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "prelude": "4.1.1"
+  },
+  "1.0.1": {
+    "control": "4.2.0",
+    "invariant": "4.1.0",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "prelude": "4.1.1"
+  }
+}

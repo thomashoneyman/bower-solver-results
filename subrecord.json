@@ -1,0 +1,21 @@
+{
+  "0.1.0": {
+    "assert": "3.1.0",
+    "console": "3.0.0",
+    "control": "3.3.1",
+    "eff": "3.2.3",
+    "functions": "3.0.0",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "prelude": "3.3.0",
+    "proxy": "2.1.0",
+    "record": "0.2.6",
+    "st": "3.0.0",
+    "symbols": "3.0.1",
+    "type-equality": "2.1.0",
+    "typelevel-prelude": "2.7.0",
+    "unsafe-coerce": "3.0.0"
+  }
+}

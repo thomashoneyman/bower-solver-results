@@ -1,0 +1,8 @@
+{
+  "0.1.0": {
+    "prelude": "4.1.1",
+    "proxy": "3.0.2",
+    "type-equality": "3.0.0",
+    "typelevel-prelude": "4.0.2"
+  }
+}

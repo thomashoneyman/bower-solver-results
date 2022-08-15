@@ -1,0 +1,11 @@
+{
+  "0.1.0": {
+    "control": "5.0.0",
+    "invariant": "5.0.0",
+    "newtype": "4.0.0",
+    "prelude": "5.0.1",
+    "safe-coerce": "1.0.0",
+    "tuples": "6.0.1",
+    "unsafe-coerce": "5.0.0"
+  }
+}

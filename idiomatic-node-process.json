@@ -1,0 +1,22 @@
+{
+  "0.3.0": {
+    "control": "4.2.0",
+    "effect": "2.0.1",
+    "functions": "4.0.0",
+    "invariant": "4.1.0",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "nullable": "4.1.1",
+    "prelude": "4.1.1"
+  },
+  "0.3.1": {
+    "control": "4.2.0",
+    "effect": "2.0.1",
+    "functions": "4.0.0",
+    "invariant": "4.1.0",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "nullable": "4.1.1",
+    "prelude": "4.1.1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "0.0.1": {
+    "arraybuffer-types": "2.0.0",
+    "console": "3.0.0",
+    "control": "3.3.1",
+    "eff": "3.2.3",
+    "functions": "3.0.0",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "nullable": "3.0.0",
+    "prelude": "3.3.0"
+  },
+  "0.0.2": {
+    "arraybuffer-types": "2.0.0",
+    "console": "3.0.0",
+    "control": "3.3.1",
+    "eff": "3.2.3",
+    "functions": "3.0.0",
+    "invariant": "3.0.0",
+    "maybe": "3.1.0",
+    "monoid": "3.3.1",
+    "newtype": "2.0.0",
+    "nullable": "3.0.0",
+    "prelude": "3.3.0"
+  },
+  "1.0.0": {
+    "arraybuffer-types": "2.0.0",
+    "control": "4.2.0",
+    "functions": "4.0.0",
+    "invariant": "4.1.0",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "nullable": "4.1.1",
+    "prelude": "4.1.1"
+  },
+  "1.0.1": {
+    "arraybuffer-types": "2.0.0",
+    "control": "4.2.0",
+    "functions": "4.0.0",
+    "invariant": "4.1.0",
+    "maybe": "4.0.1",
+    "newtype": "3.0.0",
+    "nullable": "4.1.1",
+    "prelude": "4.1.1"
+  }
+}

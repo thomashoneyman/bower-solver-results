@@ -1,0 +1,8 @@
+{
+  "0.0.1": {
+    "functions": "6.0.0",
+    "prelude": "6.0.0",
+    "record": "4.0.0",
+    "unsafe-coerce": "6.0.0"
+  }
+}
