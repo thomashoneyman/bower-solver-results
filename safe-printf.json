@@ -1,0 +1,25 @@
+{
+  "1.0.0": {
+    "bowerfileSolution": {
+      "console": "4.4.0",
+      "effect": "2.0.1",
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "4.0.2"
+    },
+    "dependencies": {
+      "console": ">=4.2.0 <5.0.0",
+      "prelude": ">=4.1.0 <5.0.0",
+      "typelevel-prelude": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "console": "4.4.0",
+      "effect": "2.0.1",
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "4.0.2"
+    }
+  }
+}

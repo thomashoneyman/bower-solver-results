@@ -1,0 +1,32 @@
+{
+  "0.0.2": {
+    "bowerfileSolution": {
+      "console": "0.1.1",
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    },
+    "dependencies": {
+      "console": ">=0.1.0 <0.2.0"
+    },
+    "manifestSolution": {
+      "console": "0.1.1",
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    }
+  },
+  "0.1.0": {
+    "bowerfileSolution": {
+      "console": "0.1.1",
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    },
+    "dependencies": {
+      "console": ">=0.1.0 <0.2.0"
+    },
+    "manifestSolution": {
+      "console": "0.1.1",
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    }
+  }
+}

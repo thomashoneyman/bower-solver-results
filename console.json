@@ -1,0 +1,173 @@
+{
+  "0.1.0": {
+    "bowerfileSolution": {
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    },
+    "dependencies": {
+      "eff": ">=0.1.0 <0.2.0"
+    },
+    "manifestSolution": {
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    }
+  },
+  "0.1.1": {
+    "bowerfileSolution": {
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    },
+    "dependencies": {
+      "eff": ">=0.1.0 <0.2.0"
+    },
+    "manifestSolution": {
+      "eff": "0.1.2",
+      "prelude": "0.1.5"
+    }
+  },
+  "1.0.0": {
+    "bowerfileSolution": {
+      "eff": "1.0.0",
+      "prelude": "1.1.0"
+    },
+    "dependencies": {
+      "eff": ">=1.0.0 <2.0.0"
+    },
+    "manifestSolution": {
+      "eff": "1.0.0",
+      "prelude": "1.1.0"
+    }
+  },
+  "2.0.0": {
+    "bowerfileSolution": {
+      "eff": "2.0.0",
+      "prelude": "2.5.0"
+    },
+    "dependencies": {
+      "eff": ">=2.0.0 <3.0.0"
+    },
+    "manifestSolution": {
+      "eff": "2.0.0",
+      "prelude": "2.5.0"
+    }
+  },
+  "3.0.0": {
+    "bowerfileSolution": {
+      "control": "3.3.1",
+      "eff": "3.2.3",
+      "invariant": "3.0.0",
+      "monoid": "3.3.1",
+      "newtype": "2.0.0",
+      "prelude": "3.3.0"
+    },
+    "dependencies": {
+      "eff": ">=3.0.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "control": "3.3.1",
+      "eff": "3.2.3",
+      "invariant": "3.0.0",
+      "monoid": "3.3.1",
+      "newtype": "2.0.0",
+      "prelude": "3.3.0"
+    }
+  },
+  "4.0.0": {
+    "bowerfileSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "effect": ">=2.0.0 <3.0.0",
+      "prelude": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    }
+  },
+  "4.1.0": {
+    "bowerfileSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "effect": ">=2.0.0 <3.0.0",
+      "prelude": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    }
+  },
+  "4.2.0": {
+    "bowerfileSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "effect": ">=2.0.0 <3.0.0",
+      "prelude": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    }
+  },
+  "4.3.0": {
+    "bowerfileSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "effect": ">=2.0.0 <3.0.0",
+      "prelude": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    }
+  },
+  "4.4.0": {
+    "bowerfileSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "effect": ">=2.0.0 <3.0.0",
+      "prelude": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "effect": "2.0.1",
+      "prelude": "4.1.1"
+    }
+  },
+  "5.0.0": {
+    "bowerfileSolution": {
+      "effect": "3.0.0",
+      "prelude": "5.0.1"
+    },
+    "dependencies": {
+      "effect": ">=3.0.0 <4.0.0",
+      "prelude": ">=5.0.0 <6.0.0"
+    },
+    "manifestSolution": {
+      "effect": "3.0.0",
+      "prelude": "5.0.1"
+    }
+  },
+  "6.0.0": {
+    "bowerfileSolution": {
+      "effect": "4.0.0",
+      "prelude": "6.0.1"
+    },
+    "dependencies": {
+      "effect": ">=4.0.0 <5.0.0",
+      "prelude": ">=6.0.0 <7.0.0"
+    },
+    "manifestSolution": {
+      "effect": "4.0.0",
+      "prelude": "6.0.1"
+    }
+  }
+}

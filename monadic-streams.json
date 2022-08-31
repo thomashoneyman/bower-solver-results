@@ -1,0 +1,18 @@
+{
+  "0.0.1": {
+    "bowerfileSolution": {
+      "exists": "3.0.0",
+      "prelude": "3.3.0",
+      "unsafe-coerce": "3.0.0"
+    },
+    "dependencies": {
+      "exists": ">=3.0.0 <4.0.0",
+      "prelude": ">=3.1.1 <4.0.0"
+    },
+    "manifestSolution": {
+      "exists": "3.0.0",
+      "prelude": "3.3.0",
+      "unsafe-coerce": "3.0.0"
+    }
+  }
+}

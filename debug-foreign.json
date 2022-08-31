@@ -1,0 +1,15 @@
+{
+  "0.0.2": {
+    "bowerfileSolution": {
+      "easy-ffi": "1.0.2",
+      "prelude": "0.1.5"
+    },
+    "dependencies": {
+      "easy-ffi": ">=1.0.1 <1.1.0"
+    },
+    "manifestSolution": {
+      "easy-ffi": "1.0.2",
+      "prelude": "0.1.5"
+    }
+  }
+}

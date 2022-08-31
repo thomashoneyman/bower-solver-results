@@ -1,0 +1,44 @@
+{
+  "0.0.1": {
+    "bowerfileSolution": {
+      "prelude": "1.1.0",
+      "unsafe-coerce": "1.0.0"
+    },
+    "dependencies": {
+      "prelude": ">=1.0.1 <2.0.0",
+      "unsafe-coerce": ">=1.0.0 <2.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "1.1.0",
+      "unsafe-coerce": "1.0.0"
+    }
+  },
+  "0.0.2": {
+    "bowerfileSolution": {
+      "prelude": "1.1.0",
+      "unsafe-coerce": "1.0.0"
+    },
+    "dependencies": {
+      "prelude": ">=1.0.1 <2.0.0",
+      "unsafe-coerce": ">=1.0.0 <2.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "1.1.0",
+      "unsafe-coerce": "1.0.0"
+    }
+  },
+  "1.0.0": {
+    "bowerfileSolution": {
+      "prelude": "2.5.0",
+      "unsafe-coerce": "2.0.0"
+    },
+    "dependencies": {
+      "prelude": ">=2.1.0 <3.0.0",
+      "unsafe-coerce": ">=2.0.0 <3.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "2.5.0",
+      "unsafe-coerce": "2.0.0"
+    }
+  }
+}

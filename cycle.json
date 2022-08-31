@@ -1,0 +1,96 @@
+{
+  "0.0.1": {
+    "bowerfileSolution": {
+      "almost": "0.0.1",
+      "arrays": "0.4.5",
+      "bifunctors": "0.4.0",
+      "console": "0.1.1",
+      "control": "0.3.2",
+      "eff": "0.1.2",
+      "foldable-traversable": "0.4.2",
+      "functions": "0.1.0",
+      "invariant": "0.3.0",
+      "lazy": "0.4.1",
+      "lists": "0.7.10",
+      "maps": "0.5.7",
+      "maybe": "0.3.5",
+      "monoid": "0.3.2",
+      "prelude": "0.1.5",
+      "st": "0.1.1",
+      "tuples": "0.4.0",
+      "unfoldable": "0.4.1"
+    },
+    "dependencies": {
+      "almost": ">=0.0.1 <0.0.2",
+      "console": ">=0.1.0 <0.2.0",
+      "maps": ">=0.5.7 <0.6.0"
+    },
+    "manifestSolution": {
+      "almost": "0.0.1",
+      "arrays": "0.4.5",
+      "bifunctors": "0.4.0",
+      "console": "0.1.1",
+      "control": "0.3.2",
+      "eff": "0.1.2",
+      "foldable-traversable": "0.4.2",
+      "functions": "0.1.0",
+      "invariant": "0.3.0",
+      "lazy": "0.4.1",
+      "lists": "0.7.10",
+      "maps": "0.5.7",
+      "maybe": "0.3.5",
+      "monoid": "0.3.2",
+      "prelude": "0.1.5",
+      "st": "0.1.1",
+      "tuples": "0.4.0",
+      "unfoldable": "0.4.1"
+    }
+  },
+  "0.0.2": {
+    "bowerfileSolution": {
+      "almost": "0.0.1",
+      "arrays": "0.4.5",
+      "bifunctors": "0.4.0",
+      "console": "0.1.1",
+      "control": "0.3.2",
+      "eff": "0.1.2",
+      "foldable-traversable": "0.4.2",
+      "functions": "0.1.0",
+      "invariant": "0.3.0",
+      "lazy": "0.4.1",
+      "lists": "0.7.10",
+      "maps": "0.5.7",
+      "maybe": "0.3.5",
+      "monoid": "0.3.2",
+      "prelude": "0.1.5",
+      "st": "0.1.1",
+      "tuples": "0.4.0",
+      "unfoldable": "0.4.1"
+    },
+    "dependencies": {
+      "almost": ">=0.0.1 <0.0.2",
+      "console": ">=0.1.0 <0.2.0",
+      "maps": ">=0.5.7 <0.6.0"
+    },
+    "manifestSolution": {
+      "almost": "0.0.1",
+      "arrays": "0.4.5",
+      "bifunctors": "0.4.0",
+      "console": "0.1.1",
+      "control": "0.3.2",
+      "eff": "0.1.2",
+      "foldable-traversable": "0.4.2",
+      "functions": "0.1.0",
+      "invariant": "0.3.0",
+      "lazy": "0.4.1",
+      "lists": "0.7.10",
+      "maps": "0.5.7",
+      "maybe": "0.3.5",
+      "monoid": "0.3.2",
+      "prelude": "0.1.5",
+      "st": "0.1.1",
+      "tuples": "0.4.0",
+      "unfoldable": "0.4.1"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "0.1.0": {
+    "bowerfileSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "type-isequal": "0.1.0",
+      "typelevel-prelude": "3.0.0"
+    },
+    "dependencies": {
+      "prelude": ">=4.1.0 <5.0.0",
+      "type-isequal": ">=0.1.0 <0.2.0",
+      "typelevel-prelude": ">=3.0.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "type-isequal": "0.1.0",
+      "typelevel-prelude": "3.0.0"
+    }
+  },
+  "0.2.0": {
+    "bowerfileSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "3.0.0"
+    },
+    "dependencies": {
+      "prelude": ">=4.1.0 <5.0.0",
+      "typelevel-prelude": ">=3.0.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "3.0.0"
+    }
+  },
+  "1.0.0": {
+    "bowerfileSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "4.0.2"
+    },
+    "dependencies": {
+      "prelude": ">=4.1.0 <5.0.0",
+      "typelevel-prelude": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "4.0.2"
+    }
+  },
+  "2.0.0": {
+    "bowerfileSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "5.0.2"
+    },
+    "dependencies": {
+      "prelude": ">=4.1.1 <5.0.0",
+      "typelevel-prelude": ">=5.0.0 <6.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "4.1.1",
+      "proxy": "3.0.2",
+      "type-equality": "3.0.0",
+      "typelevel-prelude": "5.0.2"
+    }
+  },
+  "3.0.0": {
+    "bowerfileSolution": {
+      "prelude": "5.0.1",
+      "type-equality": "4.0.1",
+      "typelevel-prelude": "6.0.0"
+    },
+    "dependencies": {
+      "prelude": ">=5.0.1 <6.0.0",
+      "typelevel-prelude": ">=6.0.0 <7.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "5.0.1",
+      "type-equality": "4.0.1",
+      "typelevel-prelude": "6.0.0"
+    }
+  }
+}

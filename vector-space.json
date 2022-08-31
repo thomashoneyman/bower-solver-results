@@ -1,0 +1,81 @@
+{
+  "0.0.1": {
+    "bowerfileSolution": {
+      "arrays": "0.3.7",
+      "control": "0.2.6",
+      "either": "0.1.8",
+      "foldable-traversable": "0.3.1",
+      "math": "0.1.1",
+      "maybe": "0.2.2",
+      "monoid": "0.2.0",
+      "tuples": "0.3.4"
+    },
+    "dependencies": {
+      "foldable-traversable": ">=0.3.1 <0.4.0",
+      "math": ">=0.1.0 <0.2.0",
+      "tuples": ">=0.3.1 <0.4.0"
+    },
+    "manifestSolution": {
+      "arrays": "0.3.7",
+      "control": "0.2.6",
+      "either": "0.1.8",
+      "foldable-traversable": "0.3.1",
+      "math": "0.1.1",
+      "maybe": "0.2.2",
+      "monoid": "0.2.0",
+      "tuples": "0.3.4"
+    }
+  },
+  "0.1.0": {
+    "bowerfileSolution": {
+      "arrays": "0.3.7",
+      "control": "0.2.6",
+      "either": "0.1.8",
+      "foldable-traversable": "0.3.1",
+      "math": "0.1.1",
+      "maybe": "0.2.2",
+      "monoid": "0.2.0",
+      "tuples": "0.3.4",
+      "vector": "0.1.1"
+    },
+    "dependencies": {
+      "foldable-traversable": ">=0.3.1 <0.4.0",
+      "math": ">=0.1.0 <0.2.0",
+      "tuples": ">=0.3.1 <0.4.0",
+      "vector": ">=0.1.1 <0.2.0"
+    },
+    "manifestSolution": {
+      "arrays": "0.3.7",
+      "bifunctors": "6.0.0",
+      "const": "6.0.0",
+      "contravariant": "6.0.0",
+      "control": "6.0.0",
+      "distributive": "6.0.0",
+      "effect": "4.0.0",
+      "either": "6.1.0",
+      "exists": "6.0.0",
+      "foldable-traversable": "6.0.0",
+      "functors": "5.0.0",
+      "identity": "6.0.0",
+      "invariant": "6.0.0",
+      "math": "4.0.0",
+      "maybe": "6.0.0",
+      "monoid": "0.2.0",
+      "newtype": "5.0.0",
+      "nonempty": "7.0.0",
+      "orders": "6.0.0",
+      "partial": "4.0.0",
+      "prelude": "6.0.1",
+      "profunctor": "6.0.0",
+      "refs": "6.0.0",
+      "safe-coerce": "2.0.0",
+      "st": "6.0.0",
+      "tailrec": "6.1.0",
+      "tuples": "0.3.4",
+      "type-equality": "4.0.1",
+      "unfoldable": "6.0.0",
+      "unsafe-coerce": "6.0.0",
+      "vector": "0.1.1"
+    }
+  }
+}

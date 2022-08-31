@@ -1,0 +1,48 @@
+{
+  "0.1.2": {
+    "bowerfileSolution": {
+      "console": "5.0.0",
+      "effect": "3.0.0",
+      "functions": "5.0.0",
+      "prelude": "5.0.1",
+      "psci-support": "5.0.0"
+    },
+    "dependencies": {
+      "console": ">=5.0.0 <6.0.0",
+      "effect": ">=3.0.0 <4.0.0",
+      "functions": ">=5.0.0 <6.0.0",
+      "prelude": ">=5.0.1 <6.0.0",
+      "psci-support": ">=5.0.0 <6.0.0"
+    },
+    "manifestSolution": {
+      "console": "5.0.0",
+      "effect": "3.0.0",
+      "functions": "5.0.0",
+      "prelude": "5.0.1",
+      "psci-support": "5.0.0"
+    }
+  },
+  "0.1.3": {
+    "bowerfileSolution": {
+      "console": "5.0.0",
+      "effect": "3.0.0",
+      "functions": "5.0.0",
+      "prelude": "5.0.1",
+      "psci-support": "5.0.0"
+    },
+    "dependencies": {
+      "console": ">=5.0.0 <6.0.0",
+      "effect": ">=3.0.0 <4.0.0",
+      "functions": ">=5.0.0 <6.0.0",
+      "prelude": ">=5.0.1 <6.0.0",
+      "psci-support": ">=5.0.0 <6.0.0"
+    },
+    "manifestSolution": {
+      "console": "5.0.0",
+      "effect": "3.0.0",
+      "functions": "5.0.0",
+      "prelude": "5.0.1",
+      "psci-support": "5.0.0"
+    }
+  }
+}
