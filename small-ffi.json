@@ -1,0 +1,46 @@
+{
+  "1.0.2": {
+    "bowerfileSolution": {
+      "prelude": "0.1.5"
+    },
+    "dependencies": {
+      "prelude": ">=0.1.0 <0.2.0"
+    },
+    "manifestSolution": {
+      "prelude": "0.1.5"
+    }
+  },
+  "2.0.0": {
+    "bowerfileSolution": {
+      "prelude": "1.1.0"
+    },
+    "dependencies": {
+      "prelude": ">=1.0.1 <2.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "1.1.0"
+    }
+  },
+  "2.1.0": {
+    "bowerfileSolution": {
+      "prelude": "2.5.0"
+    },
+    "dependencies": {
+      "prelude": ">=2.1.0 <3.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "2.5.0"
+    }
+  },
+  "2.1.2": {
+    "bowerfileSolution": {
+      "prelude": "3.3.0"
+    },
+    "dependencies": {
+      "prelude": ">=3.1.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "3.3.0"
+    }
+  }
+}

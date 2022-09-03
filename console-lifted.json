@@ -1,0 +1,25 @@
+{
+  "0.0.1": {
+    "bowerfileSolution": {
+      "console": "3.0.0",
+      "control": "3.3.1",
+      "eff": "3.2.3",
+      "invariant": "3.0.0",
+      "monoid": "3.3.1",
+      "newtype": "2.0.0",
+      "prelude": "3.3.0"
+    },
+    "dependencies": {
+      "console": ">=3.0.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "console": "3.0.0",
+      "control": "3.3.1",
+      "eff": "3.2.3",
+      "invariant": "3.0.0",
+      "monoid": "3.3.1",
+      "newtype": "2.0.0",
+      "prelude": "3.3.0"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "1.0.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "5.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=5.0.0 <6.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "5.0.0"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "0.1.0": {
+    "bowerfileSolution": {},
+    "dependencies": {},
+    "manifestSolution": {}
+  },
+  "0.1.1": {
+    "bowerfileSolution": {},
+    "dependencies": {},
+    "manifestSolution": {}
+  },
+  "1.0.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "1.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=1.0.0 <2.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "1.0.0"
+    }
+  },
+  "2.0.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "2.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=2.0.0 <3.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "2.0.0"
+    }
+  },
+  "3.0.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "3.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=3.0.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "3.0.0"
+    }
+  },
+  "4.0.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "4.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "4.0.0"
+    }
+  },
+  "5.0.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "5.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=5.0.0 <6.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "5.0.0"
+    }
+  },
+  "5.1.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "5.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=5.0.0 <6.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "5.0.0"
+    }
+  },
+  "6.0.0": {
+    "bowerfileSolution": {
+      "unsafe-coerce": "6.0.0"
+    },
+    "dependencies": {
+      "unsafe-coerce": ">=6.0.0 <7.0.0"
+    },
+    "manifestSolution": {
+      "unsafe-coerce": "6.0.0"
+    }
+  }
+}

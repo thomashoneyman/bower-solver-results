@@ -1,0 +1,56 @@
+{
+  "0.3.0": {
+    "bowerfileSolution": {
+      "control": "4.2.0",
+      "effect": "2.0.1",
+      "functions": "4.0.0",
+      "invariant": "4.1.0",
+      "maybe": "4.0.1",
+      "newtype": "3.0.0",
+      "nullable": "4.1.1",
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "effect": ">=2.0.0 <3.0.0",
+      "maybe": ">=4.0.0 <5.0.0",
+      "nullable": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "control": "4.2.0",
+      "effect": "2.0.1",
+      "functions": "4.0.0",
+      "invariant": "4.1.0",
+      "maybe": "4.0.1",
+      "newtype": "3.0.0",
+      "nullable": "4.1.1",
+      "prelude": "4.1.1"
+    }
+  },
+  "0.3.1": {
+    "bowerfileSolution": {
+      "control": "4.2.0",
+      "effect": "2.0.1",
+      "functions": "4.0.0",
+      "invariant": "4.1.0",
+      "maybe": "4.0.1",
+      "newtype": "3.0.0",
+      "nullable": "4.1.1",
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "effect": ">=2.0.0 <3.0.0",
+      "maybe": ">=4.0.0 <5.0.0",
+      "nullable": ">=4.0.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "control": "4.2.0",
+      "effect": "2.0.1",
+      "functions": "4.0.0",
+      "invariant": "4.1.0",
+      "maybe": "4.0.1",
+      "newtype": "3.0.0",
+      "nullable": "4.1.1",
+      "prelude": "4.1.1"
+    }
+  }
+}

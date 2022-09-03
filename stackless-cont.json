@@ -1,0 +1,52 @@
+{
+  "0.0.3": {
+    "bowerfileSolution": {
+      "arrays": "0.4.5",
+      "bifunctors": "0.4.0",
+      "console": "0.1.1",
+      "control": "0.3.2",
+      "distributive": "0.5.1",
+      "eff": "0.1.2",
+      "either": "0.2.3",
+      "foldable-traversable": "0.4.2",
+      "identity": "0.4.1",
+      "invariant": "0.3.0",
+      "lazy": "0.4.1",
+      "maybe": "0.3.5",
+      "monoid": "0.3.2",
+      "prelude": "0.1.5",
+      "st": "0.1.1",
+      "tailrec": "0.3.1",
+      "transformers": "0.8.4",
+      "tuples": "0.4.0",
+      "unfoldable": "0.4.1"
+    },
+    "dependencies": {
+      "console": ">=0.1.0 <0.2.0",
+      "eff": ">=0.1.2 <0.2.0",
+      "tailrec": ">=0.3.1 <0.4.0",
+      "transformers": ">=0.8.4 <0.9.0"
+    },
+    "manifestSolution": {
+      "arrays": "0.4.5",
+      "bifunctors": "0.4.0",
+      "console": "0.1.1",
+      "control": "0.3.2",
+      "distributive": "0.5.1",
+      "eff": "0.1.2",
+      "either": "0.2.3",
+      "foldable-traversable": "0.4.2",
+      "identity": "0.4.1",
+      "invariant": "0.3.0",
+      "lazy": "0.4.1",
+      "maybe": "0.3.5",
+      "monoid": "0.3.2",
+      "prelude": "0.1.5",
+      "st": "0.1.1",
+      "tailrec": "0.3.1",
+      "transformers": "0.8.4",
+      "tuples": "0.4.0",
+      "unfoldable": "0.4.1"
+    }
+  }
+}

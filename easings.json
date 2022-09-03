@@ -1,0 +1,134 @@
+{
+  "1.0.0": {
+    "bowerfileSolution": {
+      "aff": "1.0.0",
+      "arrays": "1.1.0",
+      "bifunctors": "1.0.0",
+      "catenable-lists": "1.1.0",
+      "console": "1.0.0",
+      "control": "1.0.0",
+      "distributive": "1.0.0",
+      "eff": "1.0.0",
+      "either": "1.0.0",
+      "exceptions": "1.0.0",
+      "exists": "1.0.0",
+      "foldable-traversable": "1.0.0",
+      "free": "1.4.0",
+      "functions": "1.0.0",
+      "functor-coproducts": "1.1.0",
+      "generics": "1.0.1",
+      "identity": "1.1.0",
+      "inject": "1.0.0",
+      "integers": "1.1.0",
+      "invariant": "1.0.0",
+      "lazy": "1.0.1",
+      "lists": "1.0.1",
+      "math": "2.1.1",
+      "maybe": "1.0.0",
+      "monoid": "1.0.0",
+      "parallel": "1.1.0",
+      "partial": "1.2.1",
+      "prelude": "1.0.1",
+      "proxy": "1.0.0",
+      "quickcheck": "1.0.0",
+      "random": "1.0.0",
+      "refs": "1.0.0",
+      "st": "1.0.0",
+      "strings": "1.1.0",
+      "tailrec": "1.0.0",
+      "test-unit": "7.0.1",
+      "transformers": "1.0.0",
+      "tuples": "1.0.0",
+      "unfoldable": "1.1.0",
+      "unsafe-coerce": "1.0.0"
+    },
+    "dependencies": {
+      "math": ">=2.0.0 <3.0.0",
+      "test-unit": ">=7.0.0 <8.0.0"
+    },
+    "manifestSolution": {
+      "aff": "1.0.0",
+      "arrays": "1.1.0",
+      "bifunctors": "1.0.0",
+      "catenable-lists": "1.1.0",
+      "console": "1.0.0",
+      "control": "1.0.0",
+      "distributive": "1.0.0",
+      "eff": "1.0.0",
+      "either": "1.0.0",
+      "exceptions": "1.0.0",
+      "exists": "1.0.0",
+      "foldable-traversable": "1.0.0",
+      "free": "1.4.0",
+      "functions": "1.0.0",
+      "functor-coproducts": "1.1.0",
+      "generics": "1.0.1",
+      "identity": "1.1.0",
+      "inject": "1.0.0",
+      "integers": "1.1.0",
+      "invariant": "1.0.0",
+      "lazy": "1.0.1",
+      "lists": "1.0.1",
+      "math": "2.1.1",
+      "maybe": "1.0.0",
+      "monoid": "1.0.0",
+      "parallel": "1.1.0",
+      "partial": "1.2.1",
+      "prelude": "1.0.1",
+      "proxy": "1.0.0",
+      "quickcheck": "1.0.0",
+      "random": "1.0.0",
+      "refs": "1.0.0",
+      "st": "1.0.0",
+      "strings": "1.1.0",
+      "tailrec": "1.0.0",
+      "test-unit": "7.0.1",
+      "transformers": "1.0.0",
+      "tuples": "1.0.0",
+      "unfoldable": "1.1.0",
+      "unsafe-coerce": "1.0.0"
+    }
+  },
+  "1.0.1": {
+    "bowerfileSolution": {
+      "math": "2.1.1",
+      "prelude": "3.3.0"
+    },
+    "dependencies": {
+      "math": ">=2.1.0 <3.0.0",
+      "prelude": ">=3.1.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "math": "2.1.1",
+      "prelude": "3.3.0"
+    }
+  },
+  "2.0.0": {
+    "bowerfileSolution": {
+      "math": "2.1.1",
+      "prelude": "3.3.0"
+    },
+    "dependencies": {
+      "math": ">=2.1.0 <3.0.0",
+      "prelude": ">=3.1.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "math": "2.1.1",
+      "prelude": "3.3.0"
+    }
+  },
+  "2.1.0": {
+    "bowerfileSolution": {
+      "math": "2.1.1",
+      "prelude": "3.3.0"
+    },
+    "dependencies": {
+      "math": ">=2.1.0 <3.0.0",
+      "prelude": ">=3.1.0 <4.0.0"
+    },
+    "manifestSolution": {
+      "math": "2.1.1",
+      "prelude": "3.3.0"
+    }
+  }
+}

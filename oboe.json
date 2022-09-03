@@ -1,0 +1,22 @@
+{
+  "0.3.0": {
+    "bowerfileSolution": {
+      "control": "0.2.6",
+      "exceptions": "0.2.3",
+      "http": "0.2.0",
+      "maybe": "0.2.2",
+      "oboe": "1.15.2"
+    },
+    "dependencies": {
+      "exceptions": ">=0.2.0 <0.3.0",
+      "http": ">=0.2.0 <0.3.0",
+      "oboe": ">=1.15.1 <1.16.0"
+    },
+    "manifestSolution": {
+      "control": "0.2.6",
+      "exceptions": "0.2.3",
+      "http": "0.2.0",
+      "maybe": "0.2.2"
+    }
+  }
+}

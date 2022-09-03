@@ -1,0 +1,13 @@
+{
+  "0.1.0": {
+    "bowerfileSolution": {
+      "prelude": "4.1.1"
+    },
+    "dependencies": {
+      "prelude": ">=4.1.0 <5.0.0"
+    },
+    "manifestSolution": {
+      "prelude": "4.1.1"
+    }
+  }
+}
